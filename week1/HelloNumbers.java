@@ -1,3 +1,4 @@
+package week1;
 public class HelloNumbers {
     public static void main(String[] args) {
         int x = 0; // x must be declared before it is used, + it must be given a type (type of a variable can never change (STATIC))

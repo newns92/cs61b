@@ -1,4 +1,4 @@
-package week1;
+package week1.hw0;
 public class DrawTriangle1a {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {

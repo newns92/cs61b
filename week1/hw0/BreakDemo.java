@@ -1,4 +1,4 @@
-package week1;
+package week1.hw0;
 public class BreakDemo {
     public static void main(String[] args) {
         String[] a = {"cat", "dog", "laser horse", "ketchup", "horse", "horbse"};

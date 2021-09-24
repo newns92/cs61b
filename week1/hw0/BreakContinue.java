@@ -1,4 +1,4 @@
-package week1;
+package week1.hw0;
 public class BreakContinue {
     public static void windowPosSum(int[] a, int n) {
       /* Replaces each element a[i] with the sum of a[i] through a[i + n], but only if a[i] is positive valued. 
